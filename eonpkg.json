@@ -1,0 +1,12 @@
+{
+    "name": "aes128",
+    "author": "eon",
+    "url": "official",
+    "type": "library",
+    "version": "1.0.0",
+    "dependencies": [],
+    "targetPlatforms": [
+        "stm32l0",
+        "stm32g0"
+    ]
+}
